@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Isha Sahay</h1>
+<h1 align="center">Isha Sahay</h1>
 <h3 align="center">Information Science Student | AI Engineer in Progress | Cloud & Intelligent Systems Developer</h3>
+<p align="center">
+Building scalable AI-driven systems focused on real-world impact.
+</p>
 
 ---
 
-## 🌷 About Me
+## About Me
 
-🎓 Information Science Undergraduate (GPA: 9.34/10)  
-🧠 Focused on building scalable AI-driven systems that solve real-world problems  
-🚀 Experienced in developing real-time AI applications using OpenVINO, FastAPI, NLP & Cloud platforms  
-🌍 Actively involved in hackathons, tech communities & innovation-driven projects  
+Information Science undergraduate with a GPA of 9.34/10, focused on designing and deploying scalable AI systems. Experienced in building real-time intelligent applications using OpenVINO, FastAPI, NLP pipelines, and cloud platforms.
 
-I enjoy designing intelligent systems that combine research, engineering, and practical impact.
+Actively involved in hackathons, developer communities, and research-oriented engineering projects.
 
 ---
 
-## 🛠 Technical Expertise
+## Technical Expertise
 
 **Languages:** Java, Python, C++, C, JavaScript, HTML/CSS, R  
 **AI/ML:** OpenVINO, DeepFace, Librosa, ONNX, Pandas, NumPy  
@@ -24,54 +24,52 @@ I enjoy designing intelligent systems that combine research, engineering, and pr
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
-### 🔹 NyayLens – AI Powered RAG System for Public Interest Litigation
+### NyayLens – AI Powered RAG System for Public Interest Litigation
 Developed an AI system that analyzes news data and generates structured, evidence-backed PIL ideas using NLP, semantic search, and legal context mapping.
 
-### 🔹 Customizable Smart Surveillance Captioning using Vision-Language Models
-Built an advanced captioning system integrating vision-language models for contextual surveillance intelligence.
+### Customizable Smart Surveillance Captioning using Vision-Language Models
+Built an intelligent captioning system integrating vision-language models for contextual surveillance analysis.
 
-### 🔹 Emotion-Sensing Learning Assistant (ESLA)
+### Emotion-Sensing Learning Assistant (ESLA)
 Engineered a multimodal real-time emotion detection system combining facial and voice analysis with OpenVINO optimization and an interactive Streamlit dashboard.
 
 ---
 
-## 🏆 Achievements & Leadership
+## Leadership & Certifications
 
-✨ Content & Documentation Co-Lead – Google Developer Group (GDG), NMIT  
-✨ Oracle Generative AI Certified Professional  
-✨ AWS Cloud Architecting Graduate  
+Content & Documentation Co-Lead – Google Developer Group (GDG), NMIT  
+Oracle Generative AI Certified Professional  
+AWS Cloud Architecting Graduate  
 
 ---
 
-## 💼 Open to Opportunities
+## Open to Opportunities
 
-I am actively seeking:
+Actively seeking:
 
-- AI / Machine Learning Internship Roles  
+- AI / Machine Learning Internships  
 - Software Development (SDE) Internships  
-- Backend / Cloud Engineering Roles  
+- Backend or Cloud Engineering Roles  
 - Research-driven AI Collaborations  
 
-I bring strong problem-solving skills, hands-on AI system development experience, and the ability to translate ideas into deployable solutions.
-
-📩 Open to meaningful collaborations and impactful engineering opportunities.
+Bringing strong analytical thinking, hands-on system development experience, and the ability to translate ideas into production-ready solutions.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saisha16&show_icons=true&theme=radical)
 
 ---
 
-## 🌐 Connect With Me
+## Contact
 
-📧 sahayisha16@gmail.com  
-🔗 https://www.linkedin.com/in/isha-sahay-834708292  
-💻 https://github.com/Saisha16  
+Email: sahayisha16@gmail.com  
+LinkedIn: https://www.linkedin.com/in/isha-sahay-834708292  
+GitHub: https://github.com/Saisha16  
 
 ---
 
-✨ *Engineering intelligent systems for real-world impact.*
+Engineering intelligent systems for measurable real-world impact.
