@@ -58,11 +58,7 @@ Bringing strong analytical thinking, hands-on system development experience, and
 
 ---
 
-## GitHub Stats
 
-![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saisha16&show_icons=true&theme=radical)
-
----
 
 ## Contact
 
