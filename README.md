@@ -1,6 +1,6 @@
-<h1 align="center">Isha Sahay</h1>
-<h3 align="center">Information Science Student | AI Engineer in Progress | Cloud & Intelligent Systems Developer</h3>
-<p align="center">
+<h1>Isha Sahay</h1>
+<h3>Information Science Student | AI Engineer in Progress | Cloud & Intelligent Systems Developer</h3>
+<p>
 Building scalable AI-driven systems focused on real-world impact.
 </p>
 
