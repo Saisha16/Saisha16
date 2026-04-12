@@ -8,7 +8,7 @@ Building scalable AI-driven systems focused on real-world impact.
 
 ## About Me
 
-Information Science undergraduate with a GPA of 9.34/10, focused on designing and deploying scalable AI systems. Experienced in building real-time intelligent applications using OpenVINO, FastAPI, NLP pipelines, and cloud platforms.
+Information Science undergraduate with a GPA of 9.33/10, focused on designing and deploying scalable AI systems. Experienced in building real-time intelligent applications using OpenVINO, FastAPI, NLP pipelines, and cloud platforms.
 
 Actively involved in hackathons, developer communities, and research-oriented engineering projects.
 
